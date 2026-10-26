@@ -156,7 +156,7 @@ wheels = [
 ]
 
 [[package]]
-name = "colombian-judicial-distircts-choropleth-map"
+name = "colombian-judicial-districts-choropleth-map"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

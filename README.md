@@ -88,8 +88,8 @@ con la extensión [Dev Containers](https://marketplace.visualstudio.com/items?it
 
 ```bash
 # 1. Clonar el repo y entrar a la carpeta
-git clone https://github.com/ClearNote97/Colombian-Judicial-Distircts-Choropleth-Map.git
-cd Colombian-Judicial-Distircts-Choropleth-Map
+git clone https://github.com/ClearNote97/Colombian-Judicial-Districts-Choropleth-Map.git
+cd Colombian-Judicial-Districts-Choropleth-Map
 
 # 2. Abrir en VS Code
 code .

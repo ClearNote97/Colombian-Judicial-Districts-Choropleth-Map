@@ -1,5 +1,5 @@
 [project]
-name = "colombian-judicial-distircts-choropleth-map"
+name = "colombian-judicial-districts-choropleth-map"
 version = "0.1.0"
 description = "Pipeline del Mapa Judicial de Colombia: archivos de mapa multinivel (municipio/circuito/distrito)."
 readme = "README.md"
