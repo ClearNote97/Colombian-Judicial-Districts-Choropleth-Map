@@ -1,4 +1,4 @@
-# Colombian-Judicial-Distircts-Choropleth-Map
+# Colombian-Judicial-Districts-Choropleth-Map
 ## About
 This project is a significant milestone for me as it marks my very first venture into Python programming. In recent years, I have developed a profound interest in data science as a means to continue my growth as a researcher in the Law & Economic field. Hence, to kickstart my programming journey, I decided to create a Choropleth map of the Colombian Judicial Districts' territorial distribution. At the beginning of my academic path, there weren't many resources available for conducting better research in my country, which further motivated me to embark on this project.
 
